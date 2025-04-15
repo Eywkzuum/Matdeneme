@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>7. Sınıf LGS Deneme Girişi</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f2f2f2;
+      text-align: center;
+      padding: 50px;
+    }
+    .container {
+      background: white;
+      padding: 30px;
+      border-radius: 15px;
+      box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+      max-width: 600px;
+      margin: auto;
+    }
+    input[type="text"] {
+      padding: 10px;
+      width: 70%;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+    }
+    button {
+      padding: 10px 20px;
+      background-color: #4CAF50;
+      color: white;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+    }
+    button:hover {
+      background-color: #45a049;
+    }
+    .link-list {
+      margin-top: 30px;
+      text-align: left;
+    }
+    .link-list a {
+      display: block;
+      margin: 10px 0;
+      color: #337ab7;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>📘 7. Sınıf LGS Deneme Girişi</h1>
+    <p>Site adresini yaz, sistemi kontrol et 👇</p>
+    <form action="https://www.croxyproxy.com/" method="get" target="_blank">
+      <input type="text" name="url" placeholder="https://ornek.com">
+      <button type="submit">Siteyi Aç</button>
+    </form>
+
+    <div class="link-list">
+      <h3>🔐 Hızlı Giriş Linkleri</h3>
+      <a href="https://www.croxyproxy.com/" target="_blank">CroxyProxy</a>
+      <a href="https://proxyium.com" target="_blank">Proxyium</a>
+      <a href="https://www.blockaway.net/" target="_blank">BlockAway</a>
+      <a href="https://www.zalmos.com/" target="_blank">Zalmos Proxy</a>
+      <a href="https://boomproxy.com" target="_blank">BoomProxy</a>
+      <a href="https://yewtu.be" target="_blank">YouTube Mirror (Yewtu.be)</a>
+      <a href="https://browser.lol" target="_blank">Tarayıcı Emulator (browser.lol)</a>
+    </div>
+  </div>
+</body>
+</html>
